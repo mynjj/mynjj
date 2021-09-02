@@ -1,5 +1,5 @@
-### Hi! ✨ ⚡
+### About me 
 
-My name is Joshua. 
+Joshua here 🙂
 
-I love computers! 💻 💖
+I really like computers 💻 fiddling with them, and the process of creating useful abstractions. I enjoy thinking about thinking, languages and the like 
